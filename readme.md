@@ -1,30 +1,36 @@
 <h1 align="center">Hi 👋! My name is Dyutishmaan Das</h1>
 
-###
+<p align="center"
 
-<h6 align="center">AI & INTELLIGENT SYSTEMS • MECHATRONICS ENGINEER</h6>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+INTELLIGENT+SYSTEMS;MECHATRONICS+ENGINEER)](https://git.io/typing-svg)
+</p>
 
-###
-
-<br clear="both">
-
-<img align="right" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
 
 ###
+###
 
-<h2 align="left">About Me!</h2>
+<h3 style="font-size: 25px; text-decoration: none;">About Me!</h3>
+
+---
+
+- AI & ML student with Mechatronics background.
+- Industrial experience at TATA Projects Ltd.
+- Interest in AI, Data Engineering & Computer Vision.
+- Focus on intelligent systems & automation.
+- Exposure to Remote Sensing & GIS.
 
 ###
 
-<h6 align="left">AI & ML student with Mechatronics background<br>Industrial experience at TATA Projects Ltd.<br>Interest in AI, Data Engineering & Computer Vision<br>Focus on intelligent systems & automation<br>Exposure to Remote Sensing & GIS</h6>
+<h3 align="left">🔹 Experience & Career Focus</h3>
 
 ###
 
-<h4 align="left">🔹 Experience & Career Focus</h4>
-
-###
-
-<h6 align="left">Analyzed 100+ industrial machines<br>Experience in maintenance & efficiency optimization<br>Exposure to robotics, automation & PLCs<br>Interested in research-driven technologies<br>Focus on AI in geospatial & real-world applications</h6>
+- Analyzed 100+ industrial machines
+- Experience in maintenance & efficiency optimization
+- Exposure to robotics, automation & PLCs
+- Interested in research-driven technologies
+- Focus on AI in geospatial & real-world applications
 
 ###
 
