@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Dyutishmaan Das</h1>
+<h1 align="center" style="font-size: 35px;">Hi 👋! I'm Dyutishmaan Das</h1>
 
 <p align="center"
 
@@ -8,9 +8,8 @@
 <img align="right" height="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
 
 ###
-###
 
-<h3 style="font-size: 25px; text-decoration: none;">About Me!</h3>
+<h3 style="font-size: 28px; text-decoration: none;">About Me!</h3>
 
 ---
 
@@ -31,6 +30,12 @@
 - Exposure to robotics, automation & PLCs
 - Interested in research-driven technologies
 - Focus on AI in geospatial & real-world applications
+
+###
+
+<h3 style="font-size: 25px; text-decoration: none;">🚀 Tech Stack</h3>
+
+---
 
 ###
 
@@ -86,6 +91,14 @@
 
 ###
 
+---
+
+###
+<h3 style="font-size: 25px; text-decoration: none;">🌐 Let’s Connect</h3>
+
+---
+
+###
 <div align="center">
   <a href="http://www.youtube.com/@DyutishmaanDas" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
@@ -103,6 +116,14 @@
 
 ###
 
+---
+
+###
+<h3 style="font-size: 25px; text-decoration: none;">📊 GitHub Insights</h3>
+
+---
+
+###
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dyutishmaan-das&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=14&order=3" height="150" alt="streak graph"  />
 </div>
@@ -116,6 +137,13 @@
 
 ###
 
+---
+
+###
+<h3 style="font-size: 25px; text-decoration: none;">🎮 Contribution Game</h3>
+
+---
+
 <br clear="both">
 
 <picture>
@@ -125,6 +153,13 @@
 </picture>
 
 ###
+
+---
+
+###
+<h3 style="font-size: 25px; text-decoration: none;">📅 Contribution Graph</h3>
+
+---
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dyutishmaan-das&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
