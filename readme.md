@@ -1,4 +1,4 @@
-<h3 align="center" style="font-size: 40px; text-decoration: none;">Hi 👋! I'm Dyutishmaan Das</h3>
+<h3 align="center" style="font-size: 80px; text-decoration: none;">Hi 👋! I'm Dyutishmaan Das</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <br><br>
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 style="font-size: 35px; text-decoration: none;">About Me!</h3>
+<h3 style="font-size: 50px; text-decoration: none;">About Me!</h3>
 
 ---
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 style="font-size: 30px; text-decoration: none;">🚀 Tech Stack</h3>
+<h3 style="font-size: 45px; text-decoration: none;">🚀 Tech Stack</h3>
 
 ---
 
@@ -93,7 +93,7 @@
 </div>
 
 ###
-<h3 style="font-size: 30px; text-decoration: none;">🌐 Let’s Connect</h3>
+<h3 style="font-size: 45px; text-decoration: none;">🌐 Let’s Connect</h3>
 
 ---
 
@@ -114,7 +114,7 @@
 </div>
 
 ###
-<h3 style="font-size: 30px; text-decoration: none;">📊 GitHub Insights</h3>
+<h3 style="font-size: 45px; text-decoration: none;">📊 GitHub Insights</h3>
 
 ---
 
@@ -132,7 +132,7 @@
 
 ###
 
-<h3 style="font-size: 30px; text-decoration: none;">👁️ Profile Views</h3>
+<h3 style="font-size: 45px; text-decoration: none;">👁️ Profile Views</h3>
 
 ---
 
@@ -141,7 +141,7 @@
 </div>
 
 ###
-<h3 style="font-size: 30px; text-decoration: none;">🎮 Contribution Game</h3>
+<h3 style="font-size: 45px; text-decoration: none;">🎮 Contribution Game</h3>
 
 ---
 
@@ -154,7 +154,7 @@
 </picture>
 
 ###
-<h3 style="font-size: 30px; text-decoration: none;">📅 Contribution Graph</h3>
+<h3 style="font-size: 45px; text-decoration: none;">📅 Contribution Graph</h3>
 
 ---
 
